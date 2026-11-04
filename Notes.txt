@@ -1,3 +1,9 @@
 ==Python Sorted Dictionaries==
 https://www.geeksforgeeks.org/python/python-sorted-containers-an-introduction/
 https://grantjenks.com/docs/sortedcontainers/sorteddict.html
+
+State:
+Current word path
+Current word value
+
+Actions:

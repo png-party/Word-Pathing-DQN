@@ -1,6 +1,5 @@
 import pygame
 import pygame_gui
-import Letterboard.py
 class GameManager:
     instance = None #track if Game object has been created
 
@@ -29,3 +28,13 @@ class GameManager:
         self.screen = pygame.display.set_mode((screenWidth, screenHeight), pygame.FULLSCREEN)
         print("Actual:", self.screen.get_size())
         pygame.display.set_caption("Word Pathing")
+
+class WordGameAI:
+    def __init(self):
+        self.clock = pygame.time.Clock()
+        self.reset()
+    def reset(self):
+        self.current_tile = "test" #todo fill this in later
+        self.score = 0
+        self.frame_iteration = 0
+    def draw(self, action):
