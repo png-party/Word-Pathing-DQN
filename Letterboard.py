@@ -11,10 +11,15 @@ class Letterboard:
         self.height = cols
         self.width = rows
     @typechecked
-    def fillBoard(self) -> np.ndarray:
+    def fill_board(self) -> np.ndarray:
         return True
-    def generateLetter(self) -> str:
+    def generate_letter(self) -> str:
         randomNum = 1
+        for key in letterDictFreq.keys():
+            if key <= randomNum:
+
+
+        letter = np.extract
         randomLetter = abs(randomNum - letterDictFreq(letterDictFreq.bisect_left(randomNum)))
         letterDictFreq.bisect_right(randomNum)
 
