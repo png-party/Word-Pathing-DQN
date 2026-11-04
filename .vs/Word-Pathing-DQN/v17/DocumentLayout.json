@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\mario\\source\\repos\\Word-Pathing-DQN\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mario\\source\\repos\\Word-Pathing-DQN\\Dictionary.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dictionary.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mario\\source\\repos\\Word-Pathing-DQN\\outputUpper190k.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:outputUpper190k.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mario\\source\\repos\\Word-Pathing-DQN\\Game_Manager.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Game_Manager.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mario\\source\\repos\\Word-Pathing-DQN\\Letterboard.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Letterboard.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 347,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,20 +38,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "outputUpper190k.txt",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\Word-Pathing-DQN\\outputUpper190k.txt",
+              "RelativeDocumentMoniker": "outputUpper190k.txt",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\Word-Pathing-DQN\\outputUpper190k.txt",
+              "RelativeToolTip": "outputUpper190k.txt",
+              "ViewState": "AgIAAH8HAgAAAAAAAAAAABcHAgAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-04T21:57:12.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dictionary.py",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\Word-Pathing-DQN\\Dictionary.py",
+              "RelativeDocumentMoniker": "Dictionary.py",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\Word-Pathing-DQN\\Dictionary.py",
+              "RelativeToolTip": "Dictionary.py",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-04T21:54:47.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game_Manager.py",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\Word-Pathing-DQN\\Game_Manager.py",
+              "RelativeDocumentMoniker": "Game_Manager.py",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\Word-Pathing-DQN\\Game_Manager.py",
+              "RelativeToolTip": "Game_Manager.py",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-04T21:33:16.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Letterboard.py",
               "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\Word-Pathing-DQN\\Letterboard.py",
               "RelativeDocumentMoniker": "Letterboard.py",
               "ToolTip": "C:\\Users\\mario\\source\\repos\\Word-Pathing-DQN\\Letterboard.py",
               "RelativeToolTip": "Letterboard.py",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2026-10-26T20:33:59.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Notes.txt",
               "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\Word-Pathing-DQN\\Notes.txt",
               "RelativeDocumentMoniker": "Notes.txt",
